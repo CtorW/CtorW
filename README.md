@@ -43,7 +43,8 @@
 <br>
 <br>
 
-![snakkeee](https://github.com/user-attachments/assets/57e8970b-74ee-4e14-bd7b-3bdfd2dfc2a1)
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
+
 
 
 <div align="Center">

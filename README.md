@@ -1,23 +1,27 @@
 <div align="Center">
 
-<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+<a href="https://github.com/CtorW">
+<img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
+</a>
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
+<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
 [![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 </div>
 
+# Arch Installer
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
-
-💻 Passionately building an **Arch Installer** project. 
-
-
+**Project:** Arch Linux Fast Installer
+<br>
+**Focus:** Hyprland, Dotfiles (HyDE, HyprLuna, End-4, Caelestia`current`)
+<br>
+<br>
+<br>
 <div align="Center">
 <h1>Skills</h1>
 </div>
@@ -34,10 +38,24 @@
 <br>
 <br>
 
+```bash
+ ▄▄▄       ██▀███   ▄████▄   ██░ ██     ██▓     ██▓ ███▄    █  █    ██ ▒██   ██▒
+▒████▄    ▓██ ▒ ██▒▒██▀ ▀█  ▓██░ ██▒   ▓██▒    ▓██▒ ██ ▀█   █  ██  ▓██▒▒▒ █ █ ▒░
+▒██  ▀█▄  ▓██ ░▄█ ▒▒▓█    ▄ ▒██▀▀██░   ▒██░    ▒██▒▓██  ▀█ ██▒▓██  ▒██░░░  █   ░
+░██▄▄▄▄██ ▒██▀▀█▄  ▒▓▓▄ ▄██▒░▓█ ░██    ▒██░    ░██░▓██▒  ▐▌██▒▓▓█  ░██░ ░ █ █ ▒ 
+ ▓█   ▓██▒░██▓ ▒██▒▒ ▓███▀ ░░▓█▒░██▓   ░██████▒░██░▒██░   ▓██░▒▒█████▓ ▒██▒ ▒██▒
+ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ░▒ ▒  ░ ▒ ░░▒░▒   ░ ▒░▓  ░░▓  ░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ▒▒ ░ ░▓ ░
+  ▒   ▒▒ ░  ░▒ ░ ▒░  ░  ▒    ▒ ░▒░ ░   ░ ░ ▒  ░ ▒ ░░ ░░   ░ ▒░░░▒░ ░ ░ ░░   ░▒ ░
+  ░   ▒     ░░   ░ ░         ░  ░░ ░     ░ ░    ▒ ░   ░   ░ ░  ░░░ ░ ░  ░    ░  
+      ░  ░   ░     ░ ░       ░  ░  ░       ░  ░ ░           ░    ░      ░    ░  
+                   ░                                                            
+
+```
+
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux"/>
+<img src="https://skillicons.dev/icons?i=arch,linux"/>
 
 </div>
 
@@ -50,27 +68,29 @@
 
 
 
+
 <div align="Center">
 
 | CtorW's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=vue-dark&hide_border=true)
+| <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CtorW">  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=default&hide_border=true)
 
 | Most Lang |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
-
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=default&show_icons=true&hide_border=true&layout=compact) |
+| <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> |
 
 </div>
-
-<br>
-<br>
 
 <div align="Center">
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <details> <summary>💬Socials</summary> <img width="15px" src="https://skillicons.dev/icons?i=gmail">[Gmail](mailto:lorenceisidoro@gmail.com) <img width="15px" src="https://skillicons.dev/icons?i=discord">[Discord](https://example) <img width="15px" src="https://skillicons.dev/icons?i=instagram">[Instagram](https://example) |
 
 </div>
+
+
+
+
 

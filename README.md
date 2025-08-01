@@ -1,8 +1,8 @@
 <div align="Center">
 
 <a href="https://github.com/CtorW">
-  
-  ![CtorWlogo](https://github.com/user-attachments/assets/a9996bb8-d4f6-43b0-825e-da9c57088ea0)
+
+  ![CTORW](https://github.com/user-attachments/assets/323915c6-227b-45e7-ac64-1576b89e6f6a)
 
 </a>
 

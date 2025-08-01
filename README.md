@@ -18,7 +18,7 @@
 
 # Arch Installer
 
-**Project:** Arch Linux Fast Installer
+**Project:** Arch Linux Fast Installer ++ Hyprland Installation
 <br>
 **Focus:** Hyprland, Dotfiles (HyDE, HyprLuna, End-4, Caelestia`current`)
 <br>

@@ -1,7 +1,9 @@
 <div align="Center">
 
 <a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
+  
+  ![CtorWlogo](https://github.com/user-attachments/assets/a9996bb8-d4f6-43b0-825e-da9c57088ea0)
+
 </a>
 
 <div align="center">

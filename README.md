@@ -52,13 +52,16 @@
 <div align="Center">
 
 | CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CtorW">  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=default&hide_border=true)
+|:---|---:|
+| <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CtorW"> | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=default&hide_border=true) | 
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=default&show_icons=true&hide_border=true&layout=compact) |
-| <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> |
+| Most Language |  
+| ------------- |
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=default&show_icons=true&hide_border=true&layout=compact) | 
+
+| Trophies |
+| -------- |
+| <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> | 
 
 </div>
 

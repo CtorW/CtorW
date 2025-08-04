@@ -14,19 +14,10 @@
 [![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+`Philippines-based developer with a passion for scripting. Bash is my favorite shell!`
 </div>
 
-# Arch Installer
-
-**Project:** Arch Linux Fast installer ++ Hyprland
-<br>
-**Focus:** Hyprland, Dotfiles (HyDE, HyprLuna, End-4, Caelestia`current`)
-<br>
-<br>
-<br>
-<div align="Center">
-<h1>Skills</h1>
-</div>
+![flaggit](https://github.com/user-attachments/assets/cfa65364-efce-405f-81fc-6b1da149982a)
 
 <div align="Center">
 

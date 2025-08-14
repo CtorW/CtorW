@@ -44,11 +44,11 @@
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://CtorW.github.io/CtorW/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://CtorW.github.io/CtorW/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://CtorW.github.io/CtorW/grid-snake.svg" />
-</picture> | 
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://CtorW.github.io/CtorW/grid-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://CtorW.github.io/CtorW/grid-snake-light.svg" /><img alt="GitHub contribution animation" src="https://CtorW.github.io/CtorW/grid-snake.svg" /></picture> | 
+ 
+  
+  
+
 
 
 

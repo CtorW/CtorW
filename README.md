@@ -27,19 +27,14 @@
 
 </div>
 
-<br>
-<br>
-<br>
-
-
 <div align="Center">
-<h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=arch,linux"/>
+  | Operating Systems |
+  | --- |
+  | <img width="200px" src="https://skillicons.dev/icons?i=arch,linux"/> |
 
 </div>
 
-<br>
 <br>
 
 | Snake Eating Contributions in the last year |

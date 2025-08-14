@@ -1,0 +1,38 @@
+name: Deploy
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: 0 16 * * *
+jobs:
+  deploy-pages:
+    name: Deploy Pages
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - name: Generate Snake Animations
+        uses: Platane/snk/svg-only@v3.3.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
+            dist/grid-snake-light.svg?palette=github-light
+
+      - name: Upload Pages
+        uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          path: dist
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4.0.5

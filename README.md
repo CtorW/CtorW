@@ -44,7 +44,11 @@
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://CtorW.github.io/CtorW/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://CtorW.github.io/CtorW/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://CtorW.github.io/CtorW/grid-snake.svg" />
+</picture> | 
 
 
 

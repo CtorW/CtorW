@@ -21,7 +21,7 @@
 
 <div align="Center">
 
-| Front-End | Programming |
+| Front-End | Tools |
 | :------------- | -------------: |
 | <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 

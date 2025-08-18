@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  # Schedule the workflow to run at 2 AM daily
+  schedule:
+    - cron: '0 2 * * *'
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # GitHub username to display
+          user: CtorW
+          
+          # Base metrics to include in the overview
+          base: 'header, activity, community, repositories, metadata'
+          
+          # Metrics specific to the user account
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # This saves the generated image to a file
+          output_filename: metrics.svg

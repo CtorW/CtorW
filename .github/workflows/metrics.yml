@@ -28,4 +28,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           
           # This saves the generated image to a file
-          output_filename: metrics.svg
+          output_file: metrics.svg

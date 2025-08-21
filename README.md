@@ -1,5 +1,5 @@
 <div align="CENTER">
-<img width="600" height="122" alt="CTORWLOGO NEW" src="https://github.com/user-attachments/assets/844e9012-3ba3-4867-be22-f559deb6d92e" />
+  <img width="600" height="122" alt="CTORWLOGO NEW" src="https://github.com/user-attachments/assets/8db87e9b-bc7d-4b07-b45b-865303af764a" />
 </div>
 
 <h1>Socials</h1>

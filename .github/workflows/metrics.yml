@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (every 24 hours at midnight)
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -15,20 +15,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: CtorW
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata, achievements
           config_timezone: Asia/Manila
+          plugin_achievements: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes

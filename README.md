@@ -1,7 +1,7 @@
 <div align="CENTER">
   <img width="600" height="122" alt="CTORWLOGO NEW" src="https://github.com/user-attachments/assets/8db87e9b-bc7d-4b07-b45b-865303af764a" />
   
-  ![MyWebsiteLangFront](https://img.shields.io/badge/Front_End-005C99?style=for-the-badge&logo=LanguageTool&logoColor=white)<br>
+  ![MyWebsiteLangFront](https://img.shields.io/badge/Front_End_Developer-005C99?style=for-the-badge&logo=coffeescript&logoColor=white)<br>
 </div>
 
 <h1>Socials</h1>

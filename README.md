@@ -13,6 +13,13 @@
 [![TikTok](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/tiktok.svg)](https://www.tiktok.com/@github.ctorw)
 
 ![metrics](https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/uno/github-metrics.svg)<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture><br>
+
 ![MyWebsiteLangFront](https://img.shields.io/badge/Front_End-005C99?style=for-the-badge&logo=LanguageTool&logoColor=white)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
